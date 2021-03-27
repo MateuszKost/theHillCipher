@@ -1,0 +1,9 @@
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\bin\Debug\netstandard2.0\JACsharpLIB.deps.json
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\bin\Debug\netstandard2.0\JACsharpLIB.dll
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\bin\Debug\netstandard2.0\JACsharpLIB.pdb
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.csprojAssemblyReference.cache
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.AssemblyInfoInputs.cache
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.AssemblyInfo.cs
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.csproj.CoreCompileInputs.cache
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.dll
+C:\Users\MrMat\source\repos\JAproject\JACsharpLIB\obj\Debug\netstandard2.0\JACsharpLIB.pdb

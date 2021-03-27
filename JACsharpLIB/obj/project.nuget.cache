@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMMV/8W0GC7xsZFZuMRWphtLMA7iEhNbRLmcDstpCb5MIa6ntZm656yMJq9eTSuQkgu4RFZPJGzU8ktoJ8gQHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MrMat\\source\\repos\\JAproject\\JACsharpLIB\\JACsharpLIB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MrMat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MrMat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

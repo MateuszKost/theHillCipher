@@ -1,0 +1,4 @@
+﻿  Assembling JAAsm.asm...
+     Trwa tworzenie biblioteki C:\Users\MrMat\source\repos\JAproject\x64\Debug\JAAsmLIB.lib i obiektu C:\Users\MrMat\source\repos\JAproject\x64\Debug\JAAsmLIB.exp
+JAAsmLIB.exp : warning LNK4070: /OUT: dyrektywa JAAsm.dll w pliku .EXP jest inna niż nazwa pliku wyjściowego "C:\Users\MrMat\source\repos\JAproject\x64\Debug\JAAsmLIB.dll"; dyrektywa została zignorowana
+  JAAsmLIB.vcxproj -> C:\Users\MrMat\source\repos\JAproject\x64\Debug\JAAsmLIB.dll

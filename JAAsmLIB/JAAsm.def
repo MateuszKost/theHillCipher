@@ -1,0 +1,4 @@
+LIBRARY JAAsm
+
+EXPORTS Multi3
+EXPORTS Multi2
